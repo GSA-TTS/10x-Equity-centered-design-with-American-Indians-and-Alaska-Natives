@@ -1,14 +1,14 @@
 # Equity-centered design with American Indians and Alaska Natives
 Creating a framework for Federal agencies to better engage Tribal governments and communities in more equitable consultation and collaboration. 
 
+View and contribute to the > [Resources wiki](https://github.com/18F/Equity-centered-design-with-American-Indians-and-Alaska-Natives-10x/wiki).
+
 ## 10x project framing 
 **Phase 1 project Description**: Today, 1.9 million American Indians and Alaska Natives belong to 570+ federally recognized tribes. However, tribal consultation (i.e., user research with tribes) is not conducted consistently across federal agencies, or even within individual agencies. This leads to products, services, and policies that don't meet tribes' needs, as well as reporting/administrative burdens disproportionate to the support tribes receive. There is a need for clear, plain language guidance, as well as a standardized platform for engaging tribes in meaningful consultation, which would help create more consistent and equitable engagement with, and better services for, American Indians and Alaska Natives. 10x will explore plain language guidance and other tools to create a more consistent and equitable engagement with American Indians and Alaska Natives.
 
 **During Phase 2**: we uncovered challenges Federal employees face with having meaningful consultation and ongoing relationships with American Indian and Alaska Native (AI/AN) communities. We learned by listening to and reading about the experiences and perspectives of people from both communities and sought their input through workshops and discussion to see what might help. Based on our findings, the Phase 2 team created a series of resources and guides to help federal teams shift the relationship and power dynamics between themselves and community they seek to serve and create the conditions for participants to become collaborators in the design process. 
 
 **Phase 3 Proposal**: Fund a team of both Federal employees and members of Tribal nations to pilot this guidance. As part of this partnership, we believe that part of the Phase 3 funds should be dedicated to compensating members of Tribal nations for their time and expertise. Phase 3 is essential to prove out the research that informed the guide and to make sure the process works for and is informed by the community. 
-
-<img>https://github.com/18F/Equity-centered-design-with-American-Indians-and-Alaska-Natives-10x/blob/main/Equity-centered%20Design%20Phase%203%20Roadmap.png</img>
 
 ## The problem being addressed 
 Currently the practices that Federal agencies use to consult on digitally implemented policy do not do enough to uphold our commitment to Tribal sovereignty or advancing racial equity. Designers and Federal employees usually fail to:
