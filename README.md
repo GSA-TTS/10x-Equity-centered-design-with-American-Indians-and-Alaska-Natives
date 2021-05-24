@@ -1,9 +1,6 @@
 # Equity- centered design with American Indians and Alaska Natives 10x Readme
 Creating a framework for Federal agencies to better engage Tribal governments and communities in more equitable consultation and collaboration. 
 
-#### View and contribute to the > [Resources wiki](https://github.com/18F/Equity-centered-design-with-American-Indians-and-Alaska-Natives-10x/wiki)!
-
-
 ## 10x project framing 
 **Phase 1 project Description**: Today, 1.9 million American Indians and Alaska Natives belong to 570+ federally recognized tribes. However, tribal consultation (i.e., user research with tribes) is not conducted consistently across federal agencies, or even within individual agencies. This leads to products, services, and policies that don't meet tribes' needs, as well as reporting/administrative burdens disproportionate to the support tribes receive. There is a need for clear, plain language guidance, as well as a standardized platform for engaging tribes in meaningful consultation, which would help create more consistent and equitable engagement with, and better services for, American Indians and Alaska Natives. 10x will explore plain language guidance and other tools to create a more consistent and equitable engagement with American Indians and Alaska Natives.
 
@@ -38,6 +35,9 @@ Federal agencies are better able to meet their mission, improve nation-to-nation
 - **Respect for culture**: Requires designers to approach problems with historical context and cultural sensitivity
 - **Data sovereignty**: Explains what information is being collected, how it will be used, how it will be kept safe, and how it will be given data back to the community
 - **Reduced bias in design and research**: by having collaborators directly involved as an integral part of the team and involving the people impacted in a repeated feedback loop over time 
+
+## Get involved 
+View and contribute to the > [Resources wiki](https://github.com/18F/Equity-centered-design-with-American-Indians-and-Alaska-Natives-10x/wiki)!
 
 
 
