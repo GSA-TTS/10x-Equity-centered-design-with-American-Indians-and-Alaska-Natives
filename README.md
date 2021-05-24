@@ -8,7 +8,7 @@ Creating a framework for Federal agencies to better engage Tribal governments an
 
 **Phase 3 Proposal**: Fund a team of both Federal employees and members of Tribal nations to pilot this guidance. As part of this partnership, we believe that part of the Phase 3 funds should be dedicated to compensating members of Tribal nations for their time and expertise. Phase 3 is essential to prove out the research that informed the guide and to make sure the process works for and is informed by the community. 
 
-
+<img>https://github.com/18F/Equity-centered-design-with-American-Indians-and-Alaska-Natives-10x/blob/main/Equity-centered%20Design%20Phase%203%20Roadmap.png</img>
 
 ## The problem being addressed 
 Currently the practices that Federal agencies use to consult on digitally implemented policy do not do enough to uphold our commitment to Tribal sovereignty or advancing racial equity. Designers and Federal employees usually fail to:
