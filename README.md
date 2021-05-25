@@ -1,7 +1,7 @@
 # Equity-centered design with American Indians and Alaska Natives
 Creating a framework for Federal agencies to better engage Tribal governments and communities in more equitable consultation and collaboration. 
 
-- View and contribute to the Equity-centered design > [Resources](https://github.com/18F/Equity-centered-design-with-American-Indians-and-Alaska-Natives-10x/wiki).
+- View the Equity-centered design [Resources page](https://github.com/18F/Equity-centered-design-with-American-Indians-and-Alaska-Natives-10x/wiki).
 - Download the [Phase 3 pitch deck](https://github.com/18F/Equity-centered-design-with-American-Indians-and-Alaska-Natives-10x/blob/main/Equity-centered%20Design%20with%20American%20Indians%20and%20Alaska%20Natives_Phase%202_Pitch%20deck%20(1).pdf)
 
 ## 10x project framing 
