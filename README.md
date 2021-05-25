@@ -1,7 +1,8 @@
 # Equity-centered design with American Indians and Alaska Natives
 Creating a framework for Federal agencies to better engage Tribal governments and communities in more equitable consultation and collaboration. 
 
-View and contribute to the > [Resources wiki](https://github.com/18F/Equity-centered-design-with-American-Indians-and-Alaska-Natives-10x/wiki).
+- View and contribute to the Equity-centered design > [Resources](https://github.com/18F/Equity-centered-design-with-American-Indians-and-Alaska-Natives-10x/wiki).
+- Download the [Phase 3 pitch deck](https://github.com/18F/Equity-centered-design-with-American-Indians-and-Alaska-Natives-10x/blob/main/Equity-centered%20Design%20with%20American%20Indians%20and%20Alaska%20Natives_Phase%202_Pitch%20deck%20(1).pdf)
 
 ## 10x project framing 
 **Phase 1 project Description**: Today, 1.9 million American Indians and Alaska Natives belong to 570+ federally recognized tribes. However, tribal consultation (i.e., user research with tribes) is not conducted consistently across federal agencies, or even within individual agencies. This leads to products, services, and policies that don't meet tribes' needs, as well as reporting/administrative burdens disproportionate to the support tribes receive. There is a need for clear, plain language guidance, as well as a standardized platform for engaging tribes in meaningful consultation, which would help create more consistent and equitable engagement with, and better services for, American Indians and Alaska Natives. 10x will explore plain language guidance and other tools to create a more consistent and equitable engagement with American Indians and Alaska Natives.
