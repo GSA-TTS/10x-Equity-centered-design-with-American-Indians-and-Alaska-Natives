@@ -1,7 +1,7 @@
 # Equity-centered design with American Indians and Alaska Natives
 Creating a framework for Federal agencies to better engage Tribal governments and communities in more equitable consultation and collaboration. 
 
-- Visit the Equity-centered design [Resources page](https://github.com/18F/Equity-centered-design-with-American-Indians-and-Alaska-Natives-10x/wiki).
+- Visit the Equity-centered design [Resources page](https://github.com/18F/Equity-centered-design-with-American-Indians-and-Alaska-Natives-10x/wiki). 
 - Download the [Phase 3 pitch deck](https://github.com/18F/Equity-centered-design-with-American-Indians-and-Alaska-Natives-10x/blob/main/Equity-centered%20Design%20with%20American%20Indians%20and%20Alaska%20Natives_Phase%202_Pitch%20deck%20(1).pdf)
 
 ## 10x project framing 
@@ -39,8 +39,10 @@ Federal agencies are better able to meet their mission, improve nation-to-nation
 - **Data sovereignty**: Explains what information is being collected, how it will be used, how it will be kept safe, and how it will be given data back to the community
 - **Reduced bias in design and research**: by having collaborators directly involved as an integral part of the team and involving the people impacted in a repeated feedback loop over time 
 
-## Get involved 
-View and contribute to the > [Resources wiki](https://github.com/18F/Equity-centered-design-with-American-Indians-and-Alaska-Natives-10x/wiki)!
-
+## Thank you!
+The Phase 2 team would like to thank:
+- All the people with spoke with who were generous with their time and shared their perspectives
+- The Phase 1 team, Allison Norman and Julie Strothman 
+- The 10x team for their support and encouragement
 
 
